@@ -1,3 +1,4 @@
 # UsefulUnityScripts
 
-Some scripts were written partially by UMN instructors. 
+Some useful scripts for 3D interaction techniques. 
+
