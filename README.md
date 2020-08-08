@@ -1,4 +1,4 @@
 # UsefulUnityScripts
 
-Some useful scripts for 3D interaction techniques. 
+Some useful Unity scripts for using 3D interaction techniques with the Oculus Quest. 
 
