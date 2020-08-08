@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class ControllerLocomotion : MonoBehaviour
 {
@@ -8,7 +8,7 @@ public class ControllerLocomotion : MonoBehaviour
 
 	// the maximum movement speed in meters per second
     public float maxSpeed = 1.0f;
-
+	
 	// the deadzone is the area close to the center of the thumbstick
     public float moveDeadzone = 0.2f;
 
@@ -43,7 +43,7 @@ public class ControllerLocomotion : MonoBehaviour
             // COMPLETE THIS SECTION OF CODE
 
 
-            // step 1 - create a Vector3 that contains the values for movement
+            // step 1 - create a Vector3 that contains the values for movement            
             // this calculation will require maxSpeeed, thumstickVector.y, and Time.deltaTime
 
             //Vector3 currentPosition = transform.position;
