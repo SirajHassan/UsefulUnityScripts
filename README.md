@@ -1,3 +1,4 @@
 # UsefulUnityScripts
 
-Some scripts were written partially by UMN instructors. 
+Some useful Unity scripts for using 3D interaction techniques with the Oculus Quest. 
+
